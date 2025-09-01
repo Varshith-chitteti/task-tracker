@@ -1,0 +1,9 @@
+kumuluzee:
+  # server:
+  #   port: 8080
+  datasources:
+    - jndi-name: jdbc/TaskTrackerDS
+      connection-url: jdbc:sqlserver://localhost:1433;databaseName=TaskDB;encrypt=true;trustServerCertificate=true
+      username: sa
+      password: Varshith#3333
+      driver-class: com.microsoft.sqlserver.jdbc.SQLServerDriver

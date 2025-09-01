@@ -1,0 +1,5 @@
+/home/chittetivarshith/Desktop/JavaSolverminds/Tasktracker/task-tracker/backend/src/main/java/com/example/tasktracker/entity/Task.java
+/home/chittetivarshith/Desktop/JavaSolverminds/Tasktracker/task-tracker/backend/src/main/java/com/example/tasktracker/repository/TaskRepository.java
+/home/chittetivarshith/Desktop/JavaSolverminds/Tasktracker/task-tracker/backend/src/main/java/com/example/tasktracker/CORSFilter.java
+/home/chittetivarshith/Desktop/JavaSolverminds/Tasktracker/task-tracker/backend/src/main/java/com/example/tasktracker/config/ApplicationConfig.java
+/home/chittetivarshith/Desktop/JavaSolverminds/Tasktracker/task-tracker/backend/src/main/java/com/example/tasktracker/resource/TaskResource.java

@@ -1,0 +1,6 @@
+com/example/tasktracker/entity/Task.class
+com/example/tasktracker/CORSFilter.class
+com/example/tasktracker/repository/TaskRepository.class
+META-INF/services/javax.ws.rs.core.Application
+com/example/tasktracker/config/ApplicationConfig.class
+com/example/tasktracker/resource/TaskResource.class
